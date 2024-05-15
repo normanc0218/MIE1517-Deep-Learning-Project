@@ -1,0 +1,6 @@
+/images/**
+/images/*
+/tempAudio/**
+/tempAudio/*
+/epoch_*.pth
+/best_model_*.pth
