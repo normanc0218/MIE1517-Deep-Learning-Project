@@ -20,7 +20,7 @@ Dataset
 We are training our model on a subset of COCO dataset; a large-scale object detection, segmentation, and captioning dataset.
 Classes of interest are: "mouse", "keyboard", "laptop","cellphone"
 
-# **Part 2: Automatic Speech Recognition (Speech to Text Pipeline)**
+## **Part 2: Automatic Speech Recognition (Speech to Text Pipeline)**
 The second part of our pipeline focuses on training a speech to text model so that we tell our object detection model which object to look for through our voice.
 ## **Part 3: What we have left to do and why we will succeed?**
 Given our currently trained models, it is evident that we have some strong  results that we will further need to finetune.
